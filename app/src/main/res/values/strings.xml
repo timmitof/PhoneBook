@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="add_phone_contact">Добавить контакт</string>
+    <string name="add_name">Введите имя</string>
+    <string name="add_phone_number">Введите номер</string>
+    <string name="add_button">Добавить</string>
+    <string name="close_btn">Отмена</string>
+    <string name="add_photo">Добавить фото</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
